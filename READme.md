@@ -100,10 +100,10 @@ Markdown поддерживает упрощённый порядок автом
 ## Таблицы
 В Markdown есть возможность оформлять таблицы. Столбцы разделяются вертикальными линиями | , а строка с шапкой отделяется от остальных дефисами - , которых можно ставить сколько угодно.
 
-| Header column 1| Header column 2|
-| ----------- | ----------- |
-| some text | more text |
-| some text | more and longer text |
+ Header column 1| Header column 2
+ ----------- | ----------- 
+ some text | more text 
+ some text | more and longer text 
 
 html table:
 
