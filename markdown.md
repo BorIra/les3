@@ -27,7 +27,7 @@
 
 Например:
 
-![Зиверт](https://avatars.mds.yandex.net/i?id=0ea405571daaee5111e6b02217665af2eea127ed-4322260-images-thumbs&n=13)
+![Зиверт](https://klopik.com/uploads/posts/2014-08/1407344221_fun_anim_29.jpg)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
