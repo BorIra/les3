@@ -77,7 +77,7 @@ I get 10 times more traffic from [Google][1] than from
 ## Цитаты
 Пример второй:
 
-> Arrrrhhhhaaaaa Vrraaaaahhhaar Rrrrraaaaaaahv (Если хочешь мира, готовся к войне).( собственно — Чубакка)
+> Если хочешь мира, готовся к войне.Чубакка
 
 Под цитатами имеется в виду тег \<blockquote>\. Для их оформления применяется знак >. 
 
