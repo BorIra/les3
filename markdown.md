@@ -33,7 +33,7 @@
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Ландыш](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%8B%D1%88_%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Convallaria-oliv-r2.jpg)
+![Ландыш](https://emosurff.com/i/0003350VTCDs/land1.jpg)
 
 
 ## Ссылки 
